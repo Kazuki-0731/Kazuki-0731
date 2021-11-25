@@ -1,6 +1,8 @@
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kazu_developer/contributions.svg)](http://qiita.com/kazu_developer)
+# My Qiita Contributions
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/kazu_developer/posts.svg)](http://qiita.com/kazu_developer) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kazu_developer/contributions.svg)](http://qiita.com/kazu_developer) [![My Qiita followers](https://qiita-badge.apiapi.app/s/kazu_developer/followers.svg)](http://qiita.com/kazu_developer)
 
-[![mono0926's github stats](https://github-readme-stats.vercel.app/api?username=Kazuki-0731)](https://github.com/anuraghazra/github-readme-stats)
+# My Github Profile Trophy
+[![Kazuki-0731's github stats](https://github-readme-stats.vercel.app/api?username=Kazuki-0731)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuki-0731)](https://github.com/Kazuki-0731 "trophy")
 
