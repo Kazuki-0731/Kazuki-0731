@@ -1,6 +1,10 @@
 # My Qiita Contributions
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kazu_developer/posts.svg)](http://qiita.com/kazu_developer) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kazu_developer/contributions.svg)](http://qiita.com/kazu_developer) [![My Qiita followers](https://qiita-badge.apiapi.app/s/kazu_developer/followers.svg)](http://qiita.com/kazu_developer)
 
+# My Lapras Potfolio
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 # My Github Profile Trophy
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kazuki-0731&theme=onedark&count_private=true&include_all_commits=true" />
