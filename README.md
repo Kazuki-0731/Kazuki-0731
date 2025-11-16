@@ -35,16 +35,26 @@ Last Updated on 11/16/2025, 12:36:54 AM</p>
   </a>
 
   <!-- XcodeやAndroid Studio系 -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
+  </a>
   <a href="https://developer.apple.com/jp/xcode/" target="_blank">
     <img src="https://img.icons8.com/color/144/000000/xcode.png" alt="xcode" width="40" height="40" />
   </a>
 
   <!-- OS系 -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/centos.png" alt="centos"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png" alt="external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo"/>
+  <a href="https://www.apple.com/jp/macos" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/>
+  </a>
+  <a href="https://www.centos.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/centos.png" alt="centos"/>
+  </a>
+  <a href="https://www.debian.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png" alt="external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" />
@@ -56,17 +66,13 @@ Last Updated on 11/16/2025, 12:36:54 AM</p>
       alt="docker" width="40" height="40" />
   </a>
   <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-      width="40" height="40" />
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo.png" alt="external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo"/>
   </a>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo.png" alt="external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo"/>
   <a href="https://lucene.apache.org/solr/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40" />
   </a>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
@@ -88,7 +94,9 @@ Last Updated on 11/16/2025, 12:36:54 AM</p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+  <a href="https://github.com/" target="_blank">
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://code.visualstudio.com/favicon.ico" alt="vscode" width="40" height="40" />
   </a>
@@ -98,7 +106,9 @@ Last Updated on 11/16/2025, 12:36:54 AM</p>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+  </a>
   <a href="https://cloud.google.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
   </a>
@@ -121,8 +131,12 @@ Last Updated on 11/16/2025, 12:36:54 AM</p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
   </a>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/go-programming-language.png" alt="go-programming-language"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/go-programming-language.png" alt="go-programming-language"/>
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" />
@@ -130,17 +144,30 @@ Last Updated on 11/16/2025, 12:36:54 AM</p>
   <a href="https://railsguides.jp/" target="_blank">
     <img src="https://img.icons8.com/windows/128/000000/ruby-on-rails.png" alt="rails" width="40" height="40" />
   </a>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
   </a>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+  <a href="https://mui.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+  </a>
 
   <!-- その他 -->
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo"/>
+  <a href="https://qiita.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-qiita-a-technical-information-sharing-service-for-programmers-logo-color-tal-revivo.png" alt="external-qiita-a-technical-information-sharing-service-for-programmers-logo-color-tal-revivo"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo"/>
+  </a>
   <a href="https://realm.io/" target="_blank">
     <img src="https://pics.freeicons.io/uploads/icons/png/5673890331551942642-512.png" alt="realm" width="40"
       height="40" />
