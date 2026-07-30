@@ -10,18 +10,19 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
 
 # My Github Stats
 <!-- github-readme-stats の公開インスタンスが停止しているため、
-     .github/workflows/github-stats-card.yml で生成したSVGを参照している -->
+     .github/workflows/readme-cards.yml で生成したSVGを参照している -->
 <div>
   <img height="170" align="left" src="./profile/stats.svg" alt="Kazuki-0731's GitHub Stats" />
   <img src="./profile/top-langs.svg" alt="Most Used Languages" />
 </div>
 
-# My Github Profile Trophy
-<!-- github-profile-trophy (Vercel) のデプロイがサーバーダウンしているため、現在この画像は表示されません -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kazuki-0731&theme=onedark)](https://github.com/Kazuki-0731 "trophy")
-
 # My Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kazuki-0731&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+# My Github Profile Trophy
+<!-- github-profile-trophy の公開インスタンスが停止しているため、
+     .github/workflows/readme-cards.yml で生成したSVGを参照している -->
+[![trophy](./profile/trophy.svg)](https://github.com/Kazuki-0731 "trophy")
 
 # Skill & Tools
 <!-- アイコンはこちらから拝借

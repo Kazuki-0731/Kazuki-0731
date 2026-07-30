@@ -1,17 +1,18 @@
-name: GitHub Stats Card
+name: README Cards
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 3 * * *"
 
-# github-readme-stats の公開インスタンス(github-readme-stats.vercel.app)は
-# Vercelのスポンサー終了に伴い停止しているため、SVGをリポジトリ内に生成して参照する
+# github-readme-stats / github-profile-trophy の公開インスタンス(Vercel)は
+# いずれも停止しているため、SVGをリポジトリ内に生成して参照する
 # https://github.com/anuraghazra/github-readme-stats/issues/3851
+# https://github.com/ryo-ma/github-profile-trophy/issues/439
 
 jobs:
-  update-card:
-    name: GitHub Stats Card
+  update-cards:
+    name: README Cards
     runs-on: ubuntu-latest
 
     permissions:
@@ -38,10 +39,20 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # theme入力はv1.0タグに含まれていないため@mainを参照する
+      # https://github.com/ryo-ma/github-profile-trophy/pull/423
+      - name: Generate trophy card
+        uses: ryo-ma/github-profile-trophy@main
+        with:
+          username: ${{ github.repository_owner }}
+          theme: onedark
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --staged --quiet || git commit -m "Update GitHub stats cards"
+          git diff --staged --quiet || git commit -m "Update README cards"
           git push
