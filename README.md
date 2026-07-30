@@ -22,15 +22,15 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
 </div>
 
 # My Github Summary Cards
-<!-- .github/workflows/readme-cards.yml で生成したSVGを参照している -->
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+<!-- .github/workflows/readme-cards.yml で生成したSVGを参照している
+     0-profile-details.svg は My Github Activity Graph と内容が重複するため未使用 -->
 <div>
-  <img align="left" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img align="left" src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" />
 </div>
 <div>
-  <img align="left" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+  <img align="left" src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 # My Github Activity Graph
