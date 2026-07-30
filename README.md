@@ -1,6 +1,8 @@
 # My Qiita Contributions
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kazu_developer/posts.svg)](http://qiita.com/kazu_developer) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kazu_developer/contributions.svg)](http://qiita.com/kazu_developer) [![My Qiita followers](https://qiita-badge.apiapi.app/s/kazu_developer/followers.svg)](http://qiita.com/kazu_developer)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 # My Lapras Potfolio
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/GPQHVZE" target="_blank" rel="noopener noreferrer"><img alt="GPQHVZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.44 / 5.0, ビジネス: 3.8 / 5.0, インフルエンス: 3.45 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.44&b=3.8&i=3.45&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
@@ -33,7 +35,7 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/>
   </a>
   <a href="https://www.apple.com/jp/ios" target="_blank">
-    <img src="https://skillicons.dev/icons?i=apple" alt="ios" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=apple" alt="ios" width="48" height="48" />
   </a>
 
   <!-- XcodeやAndroid Studio系 -->
@@ -41,7 +43,7 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
     <img width="48" height="48" src="https://skillicons.dev/icons?i=androidstudio" alt="android-studio--v2"/>
   </a>
   <a href="https://developer.apple.com/jp/xcode/" target="_blank">
-    <img src="https://img.icons8.com/color/144/000000/xcode.png" alt="xcode" width="40" height="40" />
+    <img src="https://img.icons8.com/color/144/000000/xcode.png" alt="xcode" width="48" height="48" />
   </a>
 
   <!-- OS系 -->
@@ -59,19 +61,19 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux"
-      width="40" height="40" />
+      width="48" height="48" />
   </a>
 
   <!-- ツール系 -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker"
-      alt="docker" width="40" height="40" />
+      alt="docker" width="48" height="48" />
   </a>
   <a href="https://www.nginx.com" target="_blank">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=nginx" alt="external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo"/>
   </a>
   <a href="https://lucene.apache.org/solr/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="48" height="48" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=mysql" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
@@ -79,43 +81,43 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=postgres"
-      alt="postgresql" width="40" height="40" />
+      alt="postgresql" width="48" height="48" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb"
-      alt="mongodb" width="40" height="40" />
+      alt="mongodb" width="48" height="48" />
   </a>
   <a href="https://redis.io" target="_blank">
     <img src="https://skillicons.dev/icons?i=redis"
-      alt="redis" width="40" height="40" />
+      alt="redis" width="48" height="48" />
   </a>
   <a href="https://www.oracle.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
-      width="40" height="40" />
+      width="48" height="48" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img width="50" height="50" src="https://skillicons.dev/icons?i=github" alt="github"/>
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="github"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48" />
   </a>
   <a href="https://postman.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="48" height="48" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="48" height="48" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=aws" alt="amazon-web-services"/>
   </a>
   <a href="https://cloud.google.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="48" height="48" />
   </a>
   <a href="https://www.vagrantup.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="48" height="48" />
   </a>
 
   <!-- プログラミング言語系 -->
@@ -124,27 +126,27 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="java"
-      width="40" height="40" />
+      width="48" height="48" />
   </a>
   <a href="https://www.swift.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="48" height="48" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js"
-      alt="javascript" width="40" height="40" />
+      alt="javascript" width="48" height="48" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=ts" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
   </a>
   <a href="https://go.dev/" target="_blank">
-    <img width="50" height="50" src="https://skillicons.dev/icons?i=go" alt="go-programming-language"/>
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=go" alt="go-programming-language"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs"
-      alt="nodejs" width="40" height="40" />
+      alt="nodejs" width="48" height="48" />
   </a>
   <a href="https://railsguides.jp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="48" height="48" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="html-5--v2"/>
@@ -157,7 +159,7 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react"
-      alt="react" width="40" height="40" />
+      alt="react" width="48" height="48" />
   </a>
   <a href="https://mui.com/" target="_blank">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=materialui" alt="material-ui"/>
@@ -171,25 +173,25 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
     <img width="48" height="48" src="https://skillicons.dev/icons?i=netlify" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo"/>
   </a>
   <a href="https://realm.io/" target="_blank">
-    <img src="https://pics.freeicons.io/uploads/icons/png/5673890331551942642-512.png" alt="realm" width="40"
-      height="40" />
+    <img src="https://pics.freeicons.io/uploads/icons/png/5673890331551942642-512.png" alt="realm" width="48"
+      height="48" />
   </a>
   <a href="https://www.bluetooth.com/learn-about-bluetooth/tech-overview/" target="_blank">
     <img src="https://www.bluetooth.com/wp-content/themes/bluetooth/images/logos/bluetooth-icon-color.svg" alt="ble"
-      width="40" height="40" />
+      width="48" height="48" />
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" width="40"
-      height="40" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" width="48"
+      height="48" />
   </a>
   <a href="https://www.selenium.dev" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=selenium"
-      alt="selenium" width="40" height="40" />
+      alt="selenium" width="48" height="48" />
   </a>
   <a href="https://www.etrobo.jp/" target="_blank">
     <img src="https://yt3.ggpht.com/ytc/AKedOLSubXBqzOUDORgEBRdmUSNL4oP1_ogrZIrVGPZE=s176-c-k-c0x00ffffff-no-rj"
-      alt="etrobo" width="40" height="40" />
+      alt="etrobo" width="48" height="48" />
   </a>
 </p>
 
