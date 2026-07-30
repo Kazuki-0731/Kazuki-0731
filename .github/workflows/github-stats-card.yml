@@ -1,0 +1,47 @@
+name: GitHub Stats Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+# github-readme-stats の公開インスタンス(github-readme-stats.vercel.app)は
+# Vercelのスポンサー終了に伴い停止しているため、SVGをリポジトリ内に生成して参照する
+# https://github.com/anuraghazra/github-readme-stats/issues/3851
+
+jobs:
+  update-card:
+    name: GitHub Stats Card
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=onedark&show_icons=true&include_all_commits=true
+          path: profile/stats.svg
+          # privateリポジトリの統計も含めたい場合は、repo と read:user スコープを持つPATを
+          # secrets に登録して ${{ secrets.GITHUB_TOKEN }} と差し替える
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=onedark&layout=compact
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "Update GitHub stats cards"
+          git push

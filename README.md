@@ -1,7 +1,6 @@
 # My Qiita Contributions
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kazu_developer/posts.svg)](http://qiita.com/kazu_developer) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kazu_developer/contributions.svg)](http://qiita.com/kazu_developer) [![My Qiita followers](https://qiita-badge.apiapi.app/s/kazu_developer/followers.svg)](http://qiita.com/kazu_developer)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 # My Lapras Potfolio
 <!--START_SECTION:lapras-card-->
@@ -9,12 +8,15 @@
 Last Updated on 7/30/2026, 2:52:29 AM</p>
 <!--END_SECTION:lapras-card-->
 
-# My Github Profile Trophy
+# My Github Stats
+<!-- github-readme-stats の公開インスタンスが停止しているため、
+     .github/workflows/github-stats-card.yml で生成したSVGを参照している -->
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kazuki-0731&theme=onedark&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuki-0731&theme=onedark&layout=compact" />
+  <img height="170" align="left" src="./profile/stats.svg" alt="Kazuki-0731's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" />
 </div>
 
+# My Github Profile Trophy
 <!-- github-profile-trophy (Vercel) のデプロイがサーバーダウンしているため、現在この画像は表示されません -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kazuki-0731&theme=onedark)](https://github.com/Kazuki-0731 "trophy")
 
