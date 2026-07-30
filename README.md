@@ -8,6 +8,11 @@
 Last Updated on 7/30/2026, 2:52:29 AM</p>
 <!--END_SECTION:lapras-card-->
 
+# My Github Profile Trophy
+<!-- github-profile-trophy の公開インスタンスが停止しているため、
+     .github/workflows/readme-cards.yml で生成したSVGを参照している -->
+[![trophy](./profile/trophy.svg)](https://github.com/Kazuki-0731 "trophy")
+
 # My Github Stats
 <!-- github-readme-stats の公開インスタンスが停止しているため、
      .github/workflows/readme-cards.yml で生成したSVGを参照している -->
@@ -18,11 +23,6 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
 
 # My Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kazuki-0731&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-# My Github Profile Trophy
-<!-- github-profile-trophy の公開インスタンスが停止しているため、
-     .github/workflows/readme-cards.yml で生成したSVGを参照している -->
-[![trophy](./profile/trophy.svg)](https://github.com/Kazuki-0731 "trophy")
 
 # Skill & Tools
 <!-- アイコンはこちらから拝借
