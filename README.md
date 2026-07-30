@@ -39,9 +39,6 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
   <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
 </div>
 
-# My Github Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kazuki-0731&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 # Skill & Tools
 <!-- アイコンはこちらから拝借
  https://icons8.jp/
