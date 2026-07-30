@@ -39,10 +39,10 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # theme入力はv1.0タグに含まれていないため@mainを参照する
+      # theme入力はv1.0タグに含まれていないためデフォルトブランチ(master)を参照する
       # https://github.com/ryo-ma/github-profile-trophy/pull/423
       - name: Generate trophy card
-        uses: ryo-ma/github-profile-trophy@main
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
           theme: onedark
