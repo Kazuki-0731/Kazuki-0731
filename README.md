@@ -22,8 +22,12 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
 </div>
 
 # My Github Summary Cards
-<!-- .github/workflows/readme-cards.yml で生成したSVGを参照している
-     0-profile-details.svg は My Github Activity Graph と内容が重複するため未使用 -->
+<!-- カードは .github/workflows/readme-cards.yml で生成したSVGを参照している
+     先頭は 0-profile-details.svg の代わりに Activity Graph を表示している
+     (<div>内ではmarkdown記法が効かないため<img>タグで埋め込む) -->
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazuki-0731&theme=react" alt="Activity Graph" />
+</div>
 <div>
   <img align="left" src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" />
   <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" />
@@ -32,9 +36,6 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
   <img align="left" src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
   <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
 </div>
-
-# My Github Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kazuki-0731&theme=react)](https://github.com/Kazuki-0731)
 
 # My Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kazuki-0731&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
