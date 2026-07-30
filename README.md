@@ -21,6 +21,21 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
   <img src="./profile/top-langs.svg" alt="Most Used Languages" />
 </div>
 
+# My Github Summary Cards
+<!-- .github/workflows/readme-cards.yml で生成したSVGを参照している -->
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+<div>
+  <img align="left" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+</div>
+<div>
+  <img align="left" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+</div>
+
+# My Github Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kazuki-0731&theme=react)](https://github.com/Kazuki-0731)
+
 # My Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kazuki-0731&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

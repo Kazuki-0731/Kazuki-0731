@@ -49,10 +49,22 @@ jobs:
           output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # profile-summary-card-output/github_dark/ に5枚のカードを生成する
+      # AUTO_PUSHは無効にして、下のCommit cardsステップでまとめてコミットする
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          UTC_OFFSET: 9
+          AUTO_PUSH: false
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg profile-summary-card-output
           git diff --staged --quiet || git commit -m "Update README cards"
           git push
