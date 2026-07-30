@@ -26,7 +26,9 @@ Last Updated on 7/30/2026, 2:52:29 AM</p>
      先頭は 0-profile-details.svg の代わりに Activity Graph を表示している
      (<div>内ではmarkdown記法が効かないため<img>タグで埋め込む) -->
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazuki-0731&theme=react" alt="Activity Graph" />
+  <!-- 実寸1200pxで表示幅いっぱいに広がってしまうため、
+       下段カード2枚分の行幅(340 + 隙間23 + 340 ≒ 700)に合わせている -->
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Kazuki-0731&theme=react" alt="Activity Graph" />
 </div>
 <div>
   <img align="left" src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" />
