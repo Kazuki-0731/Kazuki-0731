@@ -4,8 +4,8 @@
 
 # My Lapras Potfolio
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/GPQHVZE" target="_blank" rel="noopener noreferrer"><img alt="GPQHVZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.44 / 5.0, ビジネス: 3.8 / 5.0, インフルエンス: 3.43 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.44&b=3.8&i=3.43&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
-Last Updated on 8/30/2026, 4:58:53 AM</p>
+<p ><a href="https://lapras.com/public/GPQHVZE" target="_blank" rel="noopener noreferrer"><img alt="GPQHVZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.44 / 5.0, ビジネス: 3.8 / 5.0, インフルエンス: 3.44 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.44&b=3.8&i=3.44&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
+Last Updated on 8/31/2026, 5:04:42 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # My Github Profile Trophy
